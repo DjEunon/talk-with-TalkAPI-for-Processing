@@ -29,7 +29,9 @@ talkAPI、Julius、棒読みちゃんを駆使して、他人に肝心なとこ�
  - 棒読みちゃんを起動してください。この時基本設定のsocket通信でsocket通信を行うがtrueになっていることを確認してください（デフォルトではなってるはず)
  - Processingから`voiceChat.pde`を実行してください。
  - 画面に話しかけてみて棒読みちゃんが返答をしてくれたら成功です。 
-
+ ![起動画面](
+ https://github.com/DjEunon/talk-with-TalkAPI-for-Processing/blob/master/doc_pic/md_cap.PNG?raw=true
+ "起動画面")
 ## 参考文献  
 #####  accessed 2017/7/19～2017/7/20
 
