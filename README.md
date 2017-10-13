@@ -2,7 +2,8 @@
 
 ## 概要
 
-talkAPI、Julius、棒読みちゃんを駆使して、他人に肝心なところを丸投げしつつ人工知能と音声を使った会話を行うためのプログラム
+talkAPI、Julius、棒読みちゃんを駆使して、他人に肝心なところを丸投げしつつ人工知能と音声を使った会話を行うためのプログラム。  
+大学の課題として超特急で開発を行うも意外と世間でやっている人はいなさそうだったので公開を行う
 
 ## 事前準備
 
@@ -56,3 +57,9 @@ http://julius.osdn.jp/
 
 gutugutu3030 juliusをモジュールモードで動かす　Processing  
 https://sites.google.com/site/gutugutu30/other/juliuswomojurumododedongkasuprocessing
+
+## 修正予定
+なんか試行錯誤の後のソースや発表用の魔法のボタンが付いたままなので消す。  
+汚いソースを書き直す。  
+コメントをちゃんと入れる  
+python無しでも動くようにjavaで何とかするコードを書く、無理そうならprocessingのpythonモードで動くように書き直す  
