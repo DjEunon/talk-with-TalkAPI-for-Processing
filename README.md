@@ -56,3 +56,8 @@ http://julius.osdn.jp/
 
 gutugutu3030 juliusをモジュールモードで動かす　Processing  
 https://sites.google.com/site/gutugutu30/other/juliuswomojurumododedongkasuprocessing
+
+## 修正予定
+なんか試行錯誤の後のソースや発表用の魔法のボタンが付いたままなので消す。  
+コメントをちゃんと入れる  
+python無しでも動くようにjavaで何とかするコードを書く、無理そうならprocessingのpythonモードで動くように書き直す  
